@@ -3,10 +3,10 @@
     "pins": [
       {
         "package": "DL4S",
-        "repositoryURL": "https://github.com/palle-k/DL4S.git",
+        "repositoryURL": "https://github.com/philipturner/DL4S.git",
         "state": {
           "branch": "master",
-          "revision": "1f90f8790bc23c2cfcd4c94f27cf6ef011d78cba",
+          "revision": "84f0e6bc6e241e0c21cbc3de5946315117428a8a",
           "version": null
         }
       },
